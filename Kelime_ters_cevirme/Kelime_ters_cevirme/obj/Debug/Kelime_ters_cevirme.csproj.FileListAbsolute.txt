@@ -1,0 +1,7 @@
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\bin\Debug\Kelime_ters_cevirme.exe.config
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\bin\Debug\Kelime_ters_cevirme.exe
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\bin\Debug\Kelime_ters_cevirme.pdb
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\obj\Debug\Kelime_ters_cevirme.csproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\obj\Debug\Kelime_ters_cevirme.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\obj\Debug\Kelime_ters_cevirme.exe
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Kelime_ters_cevirme\Kelime_ters_cevirme\obj\Debug\Kelime_ters_cevirme.pdb

@@ -1,0 +1,7 @@
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\bin\Debug\AsalSayı.exe.config
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\bin\Debug\AsalSayı.exe
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\bin\Debug\AsalSayı.pdb
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\obj\Debug\AsalSayı.csproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\obj\Debug\AsalSayı.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\obj\Debug\AsalSayı.exe
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\AsalSayı\AsalSayı\obj\Debug\AsalSayı.pdb

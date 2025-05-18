@@ -1,0 +1,7 @@
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\bin\Debug\Console1.exe.config
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\bin\Debug\Console1.exe
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\bin\Debug\Console1.pdb
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\obj\Debug\Console1.csproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\obj\Debug\Console1.exe
+C:\Users\berat\OneDrive\Belgeler\Projects\C#\ödev\Console1\Console1\obj\Debug\Console1.pdb
